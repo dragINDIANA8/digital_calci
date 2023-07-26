@@ -1,2 +1,16 @@
-# digital_calci
-Its my first project on Github.  I have make a digital calculator using C/C++ in which one can do normal arithmetic calculations like add, subtract, multiplication and division . Hope you all like it. THANK YOU!!😊💫
+![logo](https://github.com/dragINDIANA8/digital_calci/blob/main/Digi_calci%20banner.jpg)
+# DIGITAL CALCULATOR
+
+## Features
+
+- It can be used to calculate mathematical operations.
+- We can ADD, SUBTRACT, MULTIPLY & DIVIDE by using this.
+- Helps to solve the equation more quickly.
+
+## Skills Used
+
+- C
+- C++
+
+
+
